@@ -1,4 +1,4 @@
-# MRN-Portfolio-
+# MRN-Portfolio
 Portfolio Overview
 Welcome to my portfolio, showcasing a comprehensive collection of my academic, professional, and personal projects. These works demonstrate my expertise and proficiency in using MATLAB, R, Python, and SQL to solve complex problems, analyze data, and create innovative solutions. Each project highlights my ability to apply theoretical knowledge to practical applications, delivering impactful results across various domains.
 
