@@ -3,11 +3,6 @@ Portfolio Overview
 Welcome to my portfolio, showcasing a comprehensive collection of my academic, professional, and personal projects. These works demonstrate my expertise and proficiency in using MATLAB, R, Python, and SQL to solve complex problems, analyze data, and create innovative solutions. Each project highlights my ability to apply theoretical knowledge to practical applications, delivering impactful results across various domains.
 
 Academic Projects
-MATLAB:
-
-Signal Processing: Developed and implemented algorithms for filtering and analyzing signals, enhancing data quality and extracting meaningful information.
-Control Systems: Designed and simulated control systems, optimizing performance and stability for engineering applications.
-Image Processing: Created image analysis tools for pattern recognition and feature extraction, improving accuracy and efficiency in visual data interpretation.
 
 R:
 
