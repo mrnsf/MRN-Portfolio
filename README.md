@@ -1,14 +1,12 @@
 # MRN-Portfolio
 Portfolio Overview
-Welcome to my portfolio, showcasing a comprehensive collection of my academic, professional, and personal projects. These works demonstrate my expertise and proficiency in using MATLAB, R, Python, and SQL to solve complex problems, analyze data, and create innovative solutions. Each project highlights my ability to apply theoretical knowledge to practical applications, delivering impactful results across various domains.
+Welcome to my portfolio, showcasing a comprehensive collection of my academic, professional, and personal projects. These works demonstrate my expertise and proficiency in using R, Python, and SQL to solve complex problems, analyze data, and create innovative solutions. Each project highlights my ability to apply theoretical knowledge to practical applications, delivering impactful results across various domains.
 
 
 R:
 
 Statistical Analysis: Conducted comprehensive statistical analyses on diverse datasets, uncovering trends and insights to inform decision-making.
 Data Visualization: Created compelling visualizations to present complex data clearly and effectively, facilitating better understanding and communication.
-Machine Learning: Developed predictive models using various machine learning techniques, improving accuracy and performance for data-driven solutions.
-Professional Projects
 
 Python:
 
