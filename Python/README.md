@@ -8,9 +8,6 @@ Machine learning classification using scikit-learn, pandas, and feature engineer
 **Data Analyst Job Market Trends** - Multi-regional job market analysis  
 Comprehensive analysis across USA, Canada, and Africa markets
 
-**EV Demand Forecasting** - Sustainable transportation analytics  
-Time series analysis and policy impact modeling
-
 **Iris Classification ML** - Classic machine learning with modern techniques  
 Pattern recognition and model comparison analysis
 

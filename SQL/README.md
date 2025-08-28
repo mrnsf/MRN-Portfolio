@@ -3,7 +3,7 @@
 ## Project Highlights
 
 **Database Systems Analysis** - Advanced database design and optimization techniques  
-`ISYS_864_Database_Systems_Final_Report.pdf` | `ISYS_864_Database_Systems_Final_Presentation.pdf`
+`Database_Systems_Analysis_Report.pdf` | `Database_Systems_Analysis_Presentation.pdf`
 
 **Key Features**:
 - Entity-relationship modeling and normalization

@@ -19,10 +19,10 @@ This project analyzes electric vehicle (EV) market trends and develops forecasti
    - Policy variables (incentives, regulations, infrastructure)
    - Environmental factors (emissions standards, climate goals)
 
-2. **Statistical Modeling**
-   - ARIMA models for time series forecasting
+2. **Statistical Modeling (R)**
+   - ARIMA models for time series forecasting using R
    - Regression analysis for factor identification
-   - Machine learning approaches for complex pattern recognition
+   - Statistical modeling approaches for pattern recognition
    - Scenario analysis for policy impact assessment
 
 3. **Validation and Testing**

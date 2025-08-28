@@ -16,6 +16,9 @@ Comparative analysis of cost of living across global cities
 **SFIAF Economic Impact Analysis** - Cultural economics and policy research  
 Comprehensive economic impact study for San Francisco International Arts Festival
 
+**EV Demand Forecasting** - Sustainable transportation analytics and policy impact  
+Time series analysis and forecasting models for electric vehicle market trends
+
 ## Technical Skills Demonstrated
 - Econometric modeling and causal inference
 - Panel data analysis and time series
