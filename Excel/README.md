@@ -12,7 +12,7 @@ This section demonstrates my proficiency in advanced Excel analytics, business c
 
 ### Featured Projects
 
-#### 🍔 Five Guys Pricing & Market Analysis
+#### Five Guys Pricing & Market Analysis
 **File**: `Five_Guys_Pricing_Analysis_Case_Study.pdf`
 
 **Project Highlights**:
@@ -27,10 +27,10 @@ This section demonstrates my proficiency in advanced Excel analytics, business c
 - Consumer preference analysis and segmentation
 - Competitive landscape assessment
 
-#### 📈 Chapter 14 Excel Case Studies
+#### Excel Financial Modeling Analysis
 **Files**: 
-- `Chapter_14_Excel_Case_Study_Analysis.pdf` - Comprehensive analytical report
-- `Chapter_14_Case_Study_Presentation.pdf` - Executive presentation
+- `Excel_Financial_Modeling_Analysis.pdf` - Comprehensive analytical report
+- `Financial_Modeling_Case_Study_Presentation.pdf` - Executive presentation
 
 **Technical Features**:
 - **Advanced Formulas**: Complex Excel functions and array formulas
@@ -38,10 +38,10 @@ This section demonstrates my proficiency in advanced Excel analytics, business c
 - **Statistical Analysis**: Regression analysis and hypothesis testing
 - **Scenario Modeling**: What-if analysis and sensitivity testing
 
-#### 🔬 Data Science Case Studies (DS 853)
+#### Advanced Analytics Case Studies
 **Files**:
-- `DS_853_Case_Study_2_Data_Science_Analysis.pdf`
-- `DS_853_Case_Study_3_Data_Science_Analysis.pdf`
+- `Multivariate_Statistical_Analysis_Case_Study.pdf`
+- `Advanced_Analytics_Business_Case_Study.pdf`
 
 **Methodological Approach**:
 - **Exploratory Data Analysis**: Pattern identification and trend analysis

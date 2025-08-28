@@ -8,11 +8,11 @@
 
 ## Education
 
-**Master of Science in Quantitative Economics** (In Progress)  
-San Francisco State University | GPA: 3.93/4.0
+**Master of Science in Quantitative Economics**  
+San Francisco State University | GPA: 3.93/4.0 | Graduated May 2025
 
 **Bachelor of Arts in Economics & International Relations**  
-San Francisco State University | Graduated August 2023
+University of Seoul | Graduated May 2023
 
 ## Current Projects
 
@@ -22,7 +22,7 @@ San Francisco State University | Graduated August 2023
 
 ## Academic Coursework
 
-**Advanced Economics**: Econometric Methods, Time Series Analysis, Mathematical Economics  
+**Advanced Economics**: Econometric Methods, Time Series Analysis, Mathematical Economics, Causal Inference  
 **Data Science**: Data Mining, Multivariate Analysis, Business Statistics  
 **Analytics Programming**: R Programming, SQL Database Management, Business Applications  
 
@@ -30,10 +30,10 @@ San Francisco State University | Graduated August 2023
 
 ## Portfolio Overview
 
-Welcome to my portfolio, showcasing a diverse collection of academic, professional, and personal projects. These works reflect my ability to apply data tools and analytical methods to solve problems, analyze trends, and design practical solutions. My background in customer service and bookkeeping gives me strong communication and client-facing skills, while my technical work shows my ability to connect theory with real-world applications. I focus on using the right tool for the task—R, SQL, Excel, or Python—to make data understandable and actionable.
+Welcome to my technical portfolio, showcasing a diverse collection of academic, professional, and personal projects. These works reflect my ability to apply data tools and analytical methods to solve problems, analyze trends, and design practical solutions. My background in customer service and bookkeeping gives me strong communication and client-facing skills, while my technical work shows my ability to connect theory with real-world applications. I focus on using the right tool for the task—R, SQL, Excel, or Python—to make data understandable and actionable.
 
-**Explore my complete portfolio:** [mrnport.xyz](https://mrnport.xyz)  
-**Live project demos and case studies available on my website**
+**Visit my portfolio website:** [mrnport.xyz](https://mrnport.xyz)  
+**This GitHub repository contains the technical documentation and code for all projects**
 
 ---
 
@@ -42,58 +42,58 @@ Welcome to my portfolio, showcasing a diverse collection of academic, profession
 ### Excel Projects
 *Business Analytics • Case Studies • Financial Modeling*
 
-**[Business Case Studies](./Excel/) | [Interactive Models](https://mrnport.xyz)**  
+**[Business Case Studies](./Excel/)**  
 Five Guys pricing analysis and advanced Excel analytics  
-Financial Modeling • Market Analysis • DS 853 Case Studies
+Financial Modeling • Market Analysis • Case Studies
 
 ### Python Projects
 *Machine Learning • Data Analytics • Automation*
 
-**[Diabetes Classification Model](./Python/Diabetes_Classification/) | [Live Demo](https://mrnport.xyz)**  
+**[Diabetes Classification Model](./Python/Diabetes_Classification/)**  
 Predictive healthcare analytics achieving 85%+ accuracy  
 Scikit-learn • Pandas • Feature Engineering • [YouTube Demo](https://youtu.be/OM44Vbp7cq4)
 
-**[Data Analyst Job Market Trends](./Python/Data%20Analyst%20Job%20Market%20Trends/) | [Interactive Analysis](https://mrnport.xyz)**  
+**[Data Analyst Job Market Trends](./Python/Data%20Analyst%20Job%20Market%20Trends/)**  
 Comprehensive job market analysis across USA, Canada, and Africa  
 Market Research • Data Visualization • Trend Analysis
 
-**[EV Demand Forecasting](./Python/EV_Demand_Forecasting/) | [Live Dashboard](https://mrnport.xyz)**  
+**[EV Demand Forecasting](./Python/EV_Demand_Forecasting/)**  
 Sustainable transportation market analysis and policy impact  
-Time Series • Statistical Modeling • Interactive Visualizations
+Time Series • Statistical Modeling • Visualizations
 
-**[Iris Classification ML](./Python/Iris%20ML/) | [Model Demo](https://mrnport.xyz)**  
+**[Iris Classification ML](./Python/Iris%20ML/)**  
 Classic machine learning classification with modern techniques  
 ML Algorithms • Pattern Recognition • Model Comparison
 
-**[Mushroom Classification](./Python/Mushroom%20Classification/) | [Safety Predictor](https://mrnport.xyz)**  
+**[Mushroom Classification](./Python/Mushroom%20Classification/)**  
 Safety-critical binary classification with comprehensive feature analysis  
 Binary Classification • Feature Engineering • Model Validation
 
 ### R Projects
 *Econometrics • Statistical Analysis • Economic Research*
 
-**[NBA Performance Analytics](./R/NBA_Performance_Analytics/) | [Interactive Dashboard](https://mrnport.xyz)**  
+**[NBA Performance Analytics](./R/NBA_Performance_Analytics/)**  
 67 years of basketball data: scoring dynamics through the decades  
-Panel Data Analysis • Fixed Effects Regression • ECON 731 Research
+Panel Data Analysis • Fixed Effects Regression • Econometric Research
 
-**[Coffee & UN Economic Analysis](./R/) | [Policy Insights](https://mrnport.xyz)**  
+**[Coffee & UN Economic Analysis](./R/)**  
 Economic impact analysis of coffee trade and UN development metrics  
 International Economics • Policy Analysis • Development Studies
 
-**[Global Cost of Living Analysis](./R/) | [Cost Comparison Tool](https://mrnport.xyz)**  
+**[Global Cost of Living Analysis](./R/)**  
 Purchasing power indices and cost of living insights across global cities  
 Economic Indicators • Comparative Analysis • Urban Economics
 
-**[SFIAF Economic Impact Analysis](./R/SFIAF%20Impact%20Report/) | [Impact Calculator](https://mrnport.xyz)**  
+**[SFIAF Economic Impact Analysis](./R/SFIAF%20Impact%20Report/)**  
 Comprehensive economic impact analysis for San Francisco International Arts Festival  
 Economic Impact • Policy Research • Cultural Economics
 
 ### SQL Projects
 *Database Systems • Query Optimization • Data Architecture*
 
-**[Database Systems Analysis](./SQL/) | [Query Optimizer](https://mrnport.xyz)**  
+**[Database Systems Analysis](./SQL/)**  
 Advanced database design and optimization techniques  
-ISYS 864 • Performance Tuning • System Architecture
+Database Management • Performance Tuning • System Architecture
 
 ---
 
@@ -121,10 +121,9 @@ Applied for data wrangling, automation, and exploratory analysis when needed. Pr
 ## Key Achievements
 
 **Academic Excellence**: 3.93 GPA in Quantitative Economics graduate program  
-**Healthcare Analytics**: 85%+ accuracy in predictive modeling applications  
-**Economic Research**: 67 years of NBA data analyzed for econometric insights  
-**Database Systems**: Advanced SQL optimization and system architecture  
-**Business Analytics**: Comprehensive case study analysis and financial modeling  
+**Economic Research**: Comprehensive econometric analysis across multiple domains including sports economics, international trade, urban economics, and cultural impact assessment  
+**Quantitative Methods**: Advanced application of causal inference, time series analysis, and panel data techniques  
+**Policy Analysis**: Economic impact studies supporting evidence-based decision making  
 
 ---
 
@@ -132,10 +131,10 @@ Applied for data wrangling, automation, and exploratory analysis when needed. Pr
 
 **Always interested in discussing economics, data analysis, or collaboration opportunities.**
 
-**[Visit my portfolio](https://mrnport.xyz)** - Live demos, case studies, and project details  
+**[Visit my portfolio website](https://mrnport.xyz)** - Portfolio overview and project summaries  
 **[Connect on LinkedIn](https://linkedin.com/in/your-profile)** - Professional networking  
 **[Email me](mailto:your-email@example.com)** - Direct contact for opportunities  
-**[Follow on GitHub](https://github.com/mrnsf)** - Latest projects and code
+**[Follow on GitHub](https://github.com/mrnsf)** - Technical documentation and code
 
 ---
 
