@@ -67,7 +67,7 @@ Economic Indicators • Comparative Analysis • Urban Economics
 Comprehensive economic impact analysis for San Francisco International Arts Festival  
 Economic Impact • Policy Research • Cultural Economics
 
-**[EV Demand Forecasting](./R/EV_Demand_Forecasting/)**  
+**[EV Demand Forecasting](./R/EV_Demand_Forecasting/)**
 Sustainable transportation market analysis and policy impact  
 Time Series • Statistical Modeling • Visualizations
 
