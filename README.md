@@ -1,8 +1,8 @@
 # Marcus Nogueira
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-mrnport.xyz-blue?style=for-the-badge)](https://mrnport.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mrnsf)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:marcus.nogueira1@gmail.com)
 
 ---
 
@@ -18,6 +18,9 @@ San Francisco State University | Exchange Student at University of Seoul Spring 
 
 **Aqui** - Local entrepreneur discovery platform | [get-aqui.com/about](https://get-aqui.com/about)  
 Our mission is to empower local entrepreneurs by providing a platform that makes it easy for them to be discovered. We believe in the power of local economies and the unique cultural experiences that street vendors bring to our cities. We aim to bridge the gap between vendors and customers, making it simple, fun, and efficient to find and support businesses in your neighborhood.
+
+**Watcher** - Security-first web app for vibe coders and small teams  
+Watcher is a security-first web app that scans your codebase, highlights risks, and guides fixes — helping vibe coders and small teams ship safely. Indie developers and small teams often overlook security when shipping fast. Existing tools are noisy, complex, and not tuned for their workflows. Watcher provides a simple loop: connect repo → index deeply → receive clear security findings in a chat interface → fix with your dev → resync and scan again. Focused purely on web, app, and storage security.
 
 ## Academic Coursework
 
@@ -45,29 +48,6 @@ Welcome to my technical portfolio, showcasing a diverse collection of academic, 
 Five Guys pricing analysis and advanced Excel analytics  
 Financial Modeling • Market Analysis • Case Studies
 
-### Python Projects
-*Machine Learning • Data Analytics • Automation*
-
-**[Diabetes Classification Model](./Python/Diabetes_Classification/)**  
-Predictive healthcare analytics achieving 85%+ accuracy  
-Scikit-learn • Pandas • Feature Engineering • [YouTube Demo](https://youtu.be/OM44Vbp7cq4)
-
-**[Data Analyst Job Market Trends](./Python/Data%20Analyst%20Job%20Market%20Trends/)**  
-Comprehensive job market analysis across USA, Canada, and Africa  
-Market Research • Data Visualization • Trend Analysis
-
-**[EV Demand Forecasting](./Python/EV_Demand_Forecasting/)**  
-Sustainable transportation market analysis and policy impact  
-Time Series • Statistical Modeling • Visualizations
-
-**[Iris Classification ML](./Python/Iris%20ML/)**  
-Classic machine learning classification with modern techniques  
-ML Algorithms • Pattern Recognition • Model Comparison
-
-**[Mushroom Classification](./Python/Mushroom%20Classification/)**  
-Safety-critical binary classification with comprehensive feature analysis  
-Binary Classification • Feature Engineering • Model Validation
-
 ### R Projects
 *Econometrics • Statistical Analysis • Economic Research*
 
@@ -94,6 +74,29 @@ Economic Impact • Policy Research • Cultural Economics
 Advanced database design and optimization techniques  
 Database Management • Performance Tuning • System Architecture
 
+### Python Projects
+*Machine Learning • Data Analytics • Automation*
+
+**[Diabetes Classification Model](./Python/Diabetes_Classification/)**  
+Predictive healthcare analytics achieving 85%+ accuracy  
+Scikit-learn • Pandas • Feature Engineering • [YouTube Demo](https://youtu.be/OM44Vbp7cq4)
+
+**[Data Analyst Job Market Trends](./Python/Data%20Analyst%20Job%20Market%20Trends/)**  
+Comprehensive job market analysis across USA, Canada, and Africa  
+Market Research • Data Visualization • Trend Analysis
+
+**[EV Demand Forecasting](./Python/EV_Demand_Forecasting/)**  
+Sustainable transportation market analysis and policy impact  
+Time Series • Statistical Modeling • Visualizations
+
+**[Iris Classification ML](./Python/Iris%20ML/)**  
+Classic machine learning classification with modern techniques  
+ML Algorithms • Pattern Recognition • Model Comparison
+
+**[Mushroom Classification](./Python/Mushroom%20Classification/)**  
+Safety-critical binary classification with comprehensive feature analysis  
+Binary Classification • Feature Engineering • Model Validation
+
 ---
 
 ## Technical Skills
@@ -115,6 +118,9 @@ Highly experienced in Excel for analysis, reporting, and client-ready outputs. P
 ### Python
 Applied for data wrangling, automation, and exploratory analysis when needed. Proficient with Pandas and NumPy for data preparation, and Matplotlib for visualizations. Used primarily to complement R and SQL workflows, particularly for machine learning applications and data processing tasks.
 
+### AI & Machine Learning
+Active in the AI space with personal projects integrating AI solutions where applicable. Create custom solutions for hyperspecific problems using AI, including localizing models and leveraging APIs. Stay up-to-date with the latest AI developments and continuously explore new applications for practical problem-solving.
+
 ---
 
 ## Key Achievements
@@ -131,8 +137,8 @@ Applied for data wrangling, automation, and exploratory analysis when needed. Pr
 **Always interested in discussing economics, data analysis, or collaboration opportunities.**
 
 **[Visit my portfolio website](https://mrnport.xyz)** - Portfolio overview and project summaries  
-**[Connect on LinkedIn](https://linkedin.com/in/your-profile)** - Professional networking  
-**[Email me](mailto:your-email@example.com)** - Direct contact for opportunities  
+**[Connect on LinkedIn](https://linkedin.com/in/mrnsf)** - Professional networking  
+**[Email me](mailto:marcus.nogueira1@gmail.com)** - Direct contact for opportunities  
 **[Follow on GitHub](https://github.com/mrnsf)** - Technical documentation and code
 
 ---
