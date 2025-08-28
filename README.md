@@ -16,7 +16,9 @@ University of Seoul | Graduated May 2023
 
 ## Current Projects
 
-**Aquis** - Advanced analytics platform development  
+**Aquis** - Local entrepreneur discovery platform | [get-aqui.com/about](https://get-aqui.com/about)  
+Our mission is to empower local entrepreneurs by providing a platform that makes it easy for them to be discovered. We believe in the power of local economies and the unique cultural experiences that street vendors bring to our cities. We aim to bridge the gap between vendors and customers, making it simple, fun, and efficient to find and support businesses in your neighborhood.
+
 **Watcher Security** - Security analytics and monitoring systems for Vibe Coders  
 **F1 Leveraged Gaming** - Sports analytics and predictive modeling platform
 

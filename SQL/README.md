@@ -1,27 +1,23 @@
-# SQL & Database Systems Projects
+# SQL & Database Systems
 
-## 🗄️ Database Design & Management
+## Project Highlights
 
-### Project Overview
-This section showcases my academic work in database systems, SQL query optimization, and data management. The projects demonstrate proficiency in database design principles, complex query writing, and system analysis.
+**Database Systems Analysis** - Advanced database design and optimization techniques  
+`ISYS_864_Database_Systems_Final_Report.pdf` | `ISYS_864_Database_Systems_Final_Presentation.pdf`
 
-### Academic Course
-- **Course**: ISYS 864 - Database Systems
-- **Focus**: Advanced database design, SQL optimization, and system architecture
-- **Institution**: San Francisco State University
+**Key Features**:
+- Entity-relationship modeling and normalization
+- Query optimization and performance tuning
+- Index strategies and system architecture
+- Multi-source data integration
+- Scalable database solution design
 
-### Key Projects
-
-#### 📊 Database Systems Final Project
-**Files**: 
-- `ISYS_864_Database_Systems_Final_Report.pdf` - Comprehensive project analysis
-- `ISYS_864_Database_Systems_Final_Presentation.pdf` - Executive presentation
-
-**Project Highlights**:
-- **Database Design**: Entity-relationship modeling and normalization
-- **Query Optimization**: Performance tuning and index strategies
-- **System Architecture**: Scalable database solution design
-- **Data Integration**: Multi-source data consolidation
+## Technical Skills Demonstrated
+- Advanced SQL query writing and optimization
+- Database design and normalization
+- Performance tuning and index management
+- System architecture and scalability
+- Data integration and ETL processes
 
 ### Technical Skills Demonstrated
 

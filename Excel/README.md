@@ -1,53 +1,25 @@
-# Excel & Business Analytics Projects
+# Excel Business Analytics
 
-## 📊 Advanced Excel Analytics & Case Studies
+## Project Highlights
 
-### Project Overview
-This section demonstrates my proficiency in advanced Excel analytics, business case study analysis, and data-driven decision making. The projects showcase complex financial modeling, statistical analysis, and strategic business insights using Excel as the primary analytical tool.
+**Five Guys Pricing Analysis** - Restaurant industry pricing strategy and market positioning analysis  
+`Five_Guys_Pricing_Analysis_Case_Study.pdf`
 
-### Academic Courses
-- **DS 853**: Advanced Data Science Methods
-- **Business Analytics**: Case Study Methodology
-- **Focus**: Excel-based modeling, statistical analysis, and business intelligence
+**Financial Modeling Analysis** - Advanced Excel financial modeling with scenario analysis  
+`Excel_Financial_Modeling_Analysis.pdf` | `Financial_Modeling_Case_Study_Presentation.pdf`
 
-### Featured Projects
+**Multivariate Statistical Analysis** - Statistical modeling and data analysis using Excel  
+`Multivariate_Statistical_Analysis_Case_Study.pdf`
 
-#### Five Guys Pricing & Market Analysis
-**File**: `Five_Guys_Pricing_Analysis_Case_Study.pdf`
+**Business Analytics Case Study** - Comprehensive business intelligence and decision support analysis  
+`Advanced_Analytics_Business_Case_Study.pdf`
 
-**Project Highlights**:
-- **Pricing Strategy Analysis**: Competitive pricing model evaluation
-- **Market Research**: Consumer behavior and demand analysis
-- **Financial Modeling**: Revenue optimization and cost analysis
-- **Strategic Recommendations**: Data-driven business strategy
-
-**Key Insights**:
-- Market positioning analysis in fast-casual dining
-- Price elasticity modeling for menu optimization
-- Consumer preference analysis and segmentation
-- Competitive landscape assessment
-
-#### Excel Financial Modeling Analysis
-**Files**: 
-- `Excel_Financial_Modeling_Analysis.pdf` - Comprehensive analytical report
-- `Financial_Modeling_Case_Study_Presentation.pdf` - Executive presentation
-
-**Technical Features**:
-- **Advanced Formulas**: Complex Excel functions and array formulas
-- **Data Visualization**: Professional charts and dashboard creation
-- **Statistical Analysis**: Regression analysis and hypothesis testing
-- **Scenario Modeling**: What-if analysis and sensitivity testing
-
-#### Advanced Analytics Case Studies
-**Files**:
-- `Multivariate_Statistical_Analysis_Case_Study.pdf`
-- `Advanced_Analytics_Business_Case_Study.pdf`
-
-**Methodological Approach**:
-- **Exploratory Data Analysis**: Pattern identification and trend analysis
-- **Statistical Modeling**: Predictive analytics using Excel tools
-- **Business Intelligence**: KPI development and performance metrics
-- **Decision Support**: Evidence-based recommendations
+## Technical Skills Demonstrated
+- Advanced Excel formulas and functions
+- Financial modeling and scenario analysis
+- Statistical analysis and hypothesis testing
+- Data visualization and dashboard creation
+- Business intelligence and KPI development
 
 ### Technical Skills Demonstrated
 
