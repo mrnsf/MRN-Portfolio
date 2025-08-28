@@ -12,11 +12,11 @@
 San Francisco State University | GPA: 3.93/4.0 | Graduated May 2025
 
 **Bachelor of Arts in Economics & International Relations**  
-University of Seoul | Graduated May 2023
+San Francisco State University | Exchange Student at University of Seoul Spring 23 | Graduated May 2023
 
 ## Current Projects
 
-**Aquis** - Local entrepreneur discovery platform | [get-aqui.com/about](https://get-aqui.com/about)  
+**Aqui** - Local entrepreneur discovery platform | [get-aqui.com/about](https://get-aqui.com/about)  
 Our mission is to empower local entrepreneurs by providing a platform that makes it easy for them to be discovered. We believe in the power of local economies and the unique cultural experiences that street vendors bring to our cities. We aim to bridge the gap between vendors and customers, making it simple, fun, and efficient to find and support businesses in your neighborhood.
 
 **Watcher Security** - Security analytics and monitoring systems for Vibe Coders  
