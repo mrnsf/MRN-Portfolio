@@ -83,7 +83,7 @@ Database Management • Performance Tuning • System Architecture
 
 **[Diabetes Classification Model](./Python/Diabetes_Classification/)**  
 Predictive healthcare analytics achieving 85%+ accuracy  
-Scikit-learn • Pandas • Feature Engineering • [YouTube Demo](https://youtu.be/OM44Vbp7cq4)
+Scikit-learn • Pandas • Feature Engineering
 
 **[Data Analyst Job Market Trends](./Python/Data%20Analyst%20Job%20Market%20Trends/)**  
 Comprehensive job market analysis across USA, Canada, and Africa  
