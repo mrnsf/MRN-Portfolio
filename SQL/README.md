@@ -18,11 +18,7 @@
 - Performance tuning and index management
 - System architecture and scalability
 - Data integration and ETL processes
-
-### Technical Skills Demonstrated
-
-#### 🔧 Database Technologies
-- **SQL**: Complex queries, joins, subqueries, and stored procedures
+- Complex queries, joins, subqueries, and stored procedures
 - **Database Design**: ER modeling, normalization, and schema optimization
 - **Performance Tuning**: Index optimization and query performance analysis
 - **Data Warehousing**: ETL processes and dimensional modeling

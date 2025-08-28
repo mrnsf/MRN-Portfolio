@@ -15,19 +15,12 @@
 `Advanced_Analytics_Business_Case_Study.pdf`
 
 ## Technical Skills Demonstrated
-- Advanced Excel formulas and functions
+- Advanced Excel formulas and functions (VLOOKUP, INDEX/MATCH, array formulas)
 - Financial modeling and scenario analysis
 - Statistical analysis and hypothesis testing
 - Data visualization and dashboard creation
 - Business intelligence and KPI development
-
-### Technical Skills Demonstrated
-
-#### 🔧 Advanced Excel Capabilities
-- **Complex Formulas**: VLOOKUP, INDEX/MATCH, array formulas
-- **Data Analysis Tools**: Pivot tables, Power Query, and data modeling
-- **Statistical Functions**: Regression analysis, correlation, and hypothesis testing
-- **Visualization**: Advanced charting and dashboard development
+- Pivot tables and Power Query data modeling
 
 #### 📊 Business Analytics
 - **Financial Modeling**: DCF analysis, sensitivity analysis, scenario planning
