@@ -67,6 +67,10 @@ Economic Indicators • Comparative Analysis • Urban Economics
 Comprehensive economic impact analysis for San Francisco International Arts Festival  
 Economic Impact • Policy Research • Cultural Economics
 
+**[EV Demand Forecasting](./Python/EV_Demand_Forecasting/)**  
+Sustainable transportation market analysis and policy impact  
+Time Series • Statistical Modeling • Visualizations
+
 ### SQL Projects
 *Database Systems • Query Optimization • Data Architecture*
 
@@ -85,9 +89,6 @@ Scikit-learn • Pandas • Feature Engineering • [YouTube Demo](https://youtu
 Comprehensive job market analysis across USA, Canada, and Africa  
 Market Research • Data Visualization • Trend Analysis
 
-**[EV Demand Forecasting](./Python/EV_Demand_Forecasting/)**  
-Sustainable transportation market analysis and policy impact  
-Time Series • Statistical Modeling • Visualizations
 
 **[Iris Classification ML](./Python/Iris%20ML/)**  
 Classic machine learning classification with modern techniques  
